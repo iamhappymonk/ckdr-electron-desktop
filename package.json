@@ -57,7 +57,7 @@
     "spectron": "10.0.1",
     "typescript": "3.7.5",
     "vue-devtools": "5.1.4",
-    "vuetify": "2.3.12",
+    "vuetify": "2.6.10",
     "webpack": "4.44.2",
     "webpack-node-externals": "2.5.2"
   },
